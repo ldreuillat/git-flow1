@@ -1,1 +1,1 @@
-# git-flow1
+# Tests de base sous GitFlow
